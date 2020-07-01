@@ -12,7 +12,7 @@ $(document).ready(function ()
         data.addColumn('number', 'Member Count');
 
         data.addRows([
-          [new Date(2015, 9, 8), 1],
+          //[new Date(2015, 9, 8), 1],
           [new Date(2018, 8, 15), 107],
           [new Date(2018, 8, 28), 110],
           [new Date(2018, 9, 3), 106],
