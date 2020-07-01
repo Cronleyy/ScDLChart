@@ -33,8 +33,8 @@ $(document).ready(function ()
 
         var options = {
           title: '[SCPF] Scientific Department | Member Count Chart',
-          width: 900,
-          height: 500,
+          width: 1350,
+          height: 750,
           hAxis: {
             format: 'M/d/yy',
             gridlines: {
