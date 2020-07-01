@@ -13,7 +13,7 @@ $(document).ready(function ()
 
         data.addRows([
           [new Date(2015, 9, 8), 1],
-	  [new Date(2018, 8, 15), 107],
+          [new Date(2018, 8, 15), 107],
           [new Date(2018, 8, 28), 110],
           [new Date(2018, 9, 3), 106],
           [new Date(2018, 9, 9), 81],
