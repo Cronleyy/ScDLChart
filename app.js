@@ -12,23 +12,24 @@ $(document).ready(function ()
         data.addColumn('number', 'Member Count');
 
         data.addRows([
-          //[new Date(2015, 9, 8), 1],
-          [new Date(2018, 8, 15), 107],
-          [new Date(2018, 8, 28), 110],
-          [new Date(2018, 9, 3), 106],
-          [new Date(2018, 9, 9), 81],
-          [new Date(2018, 9, 23), 81],
-          [new Date(2018, 9, 30), 77],
-          [new Date(2018, 10, 15), 81],
-          [new Date(2018, 10, 28), 118],
-          [new Date(2018, 11, 4), 127],
-          [new Date(2018, 11, 11), 148],
-          [new Date(2018, 11, 26), 160],
-          [new Date(2019, 0, 19), 178],
-          [new Date(2019, 0, 29), 200],
-          [new Date(2019, 11, 26), 160],
-          [new Date(2020, 4, 24), 150],
-          [new Date(2020, 6, 1), 88]
+          //[new Date(2015, 9, 8), 1]
+		[new Date(2018, 8, 15), 107],
+		[new Date(2018, 8, 28), 110],
+		[new Date(2018, 9, 3), 106],
+		[new Date(2018, 9, 9), 81],
+		[new Date(2018, 9, 23), 81],
+		[new Date(2018, 9, 30), 77],
+		[new Date(2018, 10, 15), 81],
+		[new Date(2018, 10, 28), 118],
+		[new Date(2018, 11, 4), 127],
+		[new Date(2018, 11, 11), 148],
+		[new Date(2018, 11, 26), 160],
+		[new Date(2019, 0, 19), 178],
+		[new Date(2019, 0, 29), 200],
+		[new Date(2019, 11, 26), 160],
+		[new Date(2020, 4, 24), 150],
+		[new Date(2020, 6, 1), 88],
+		[new Date(2021, 7, 12), 40]
         ]);
 
 
